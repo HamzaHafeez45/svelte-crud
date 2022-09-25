@@ -2,7 +2,7 @@
 	let schoolName = "";
 	let editRowIndex = -1;
 
-	const allSchools = [
+	let allSchools = [
 		{
 			schoolName: "school 1"
 		},
